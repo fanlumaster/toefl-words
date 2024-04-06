@@ -40,4 +40,47 @@
 - fence in 这里读成了 /fen ten/
 - an impression 连在一起，起头读成了 any
 
+## Lesson2
+
+1. Today I want to talk about a way in which we are able to determine how old a piece of land, or some other geologic feature is--dating techniques.
+
+- geologic: 地质的
+- dating: 年代
+
+2. And until just recently, most of us thought the sand had come from an ancient mountain range fairly close by that flattened out over time.
+
+- fairly: 相当地
+- flatten out: 逐渐变平
+
+3. The theory is that huge rivers and wind carried the sand west where it mixed in with the sand that was already there.
+
+按：
+- 注意这里的 where it mixed in 有两个连读
+
+4. If the age of the Zircon matches the age of one of the mountain ranges, then it means the sandstone actually used to be part of that particular mountain range.
+
+- Zircon: 锆石
+
+按：
+- 这里的 one of the mountain 中的 the 听上去很像 your
+
+5. You know the theory that earth's continents were once joined together and only split apart relatively recently? Well, with Uranium-Lead Dating, we could prove that more conclusively.
+
+- Uranium: 铀
+- Lead: 铅
+
+6. Uranium-Lead Dating allowed them to go about it in an entirely different way. What they did was: they looked at the grains of Zircon in the sandstone. Zircon is a material contains radioactive Uranium, whick makes it very useful for dating purposes. Zircon starts off as molten magma, the hot lava from volcanoes. This magma then crystallize. And when Zircon crystallizes, the Uranium inside it begins to change into Lead. So if you measure the amount of Lead in the Zircon grain, you can figure out when the grain was formed. After that, you can determine the age of Zircon from different mountain ranges. Once you do that, you can compare the age of the Zircon in the sandstone in your smaple to the age of the Zircon in the mountains. If the age of the Zircon matches the age of one of the mountain ranges, then it means the sandstone actually used to be part of that particular mountain range. Is enerybody with me on that? Good. So, in this case, Uranium-Lead Dating was used to establish that half of the sandstone in the smaples was formed at the same time the granite in the Appalachian Mountains was formed. So because of this, this new way of doing Uranium-Lead Dating, we've been able to determine that one of our major assumptions about the Grand Canyon was wrong.
+
+- go about: 习惯于；继续做某事
+- grain: 纹理
+- radioactive: 放射性的
+- start off: 一开始是
+- molten: 熔化的
+- magma: (地下的未喷出的)岩浆
+- lava: (喷出的)熔岩，岩浆
+- crystallize: 结晶
+- granite: 花岗石
+- Appalachian: 阿巴拉契亚(山脉)
+- Grand Canyon: 大峡谷
+
 
