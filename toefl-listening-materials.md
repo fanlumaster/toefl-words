@@ -83,4 +83,44 @@
 - Appalachian: 阿巴拉契亚(山脉)
 - Grand Canyon: 大峡谷
 
+## Lesson3
+
+1. And...um...the settlement...uh..town really, lasted about a thousand years and grew to a size of about eight or ten thousand people.
+
+- settlement: (尤指拓荒安家的)定居点
+
+2. The houses are all rectangular, one storey, made of sun-dried bricks. But what's really interesting is that there are no spaces between them, no streets in other words, and so generally no doors on the houses either.
+
+- storey: 楼层
+- sun-dried: 晒干的
+
+3. And it also looks like they made their tools near the fire. There tends to be a lot of obsidian flakes and chips in the hearth ashes, but no chimney.
+
+- flake: 薄片
+- chip: 碎片，碎渣
+- hearth: 壁炉炉床
+- chimney: 烟囱
+
+4. And it maybe this burial custom that explains why the houses were packed in so tightly without streets.
+
+- burial: 埋葬；葬礼
+
+5. That's the way it is with archeology. You are dealing with the physical remains that people left behind. We have no sure access to what they thought and how they felt about things.
+
+- archeology: 考古遗迹
+
+6. Anyway, what I wanna focus on is the way the town was built. The houses are all rectangular, one storey, made of sun-dried bricks. But what's really interesting is that there are no spaces between them, no streets in other words, and so generally no doors on the houses either. People walked around on the roofs and entered the house through a hatchway on the roof, down a wooden ladder. You can still see the diagonal marks of the ladders in the plaster on the inside walls. Once you were in the house, there would be one main room and a couple of small rooms for storage. The main room had the hearths, for cooking and for heat. It would've been pretty cold during the winters. And it also looks like they made their tools near the fire. There tends to be a lot of obsidian flakes and chips in the hearth ashes, but no chimney. The smoke just went out the same hatchway that people used for going in and out themselves. So there would have been an open fire inside the house with only one hole in the roof to let the smoke out. You and I would have found it a bit too smoky in there. You can see on the walls, which they plastered and decorated with paintings. They ended up with a layer of black soot on them, and so did people's lungs. The bones found in the graves show a layer of soot on the inside of the ribs.
+
+- hatchway: 开口；天窗 
+- roof: 屋顶
+- diagonal: 斜线的；对角线的
+- plaster: 灰泥；建筑石膏；用灰泥抹(墙)；整修/翻新/修缮楼房
+- soot: 煤烟子；油烟
+- lung: 肺
+- grave: 坟墓
+- rib: 肋骨
+
+按：
+1. been 这里的读音大致像 "笨"
+
 
