@@ -123,4 +123,45 @@
 按：
 1. been 这里的读音大致像 "笨"
 
+## Lesson4
 
+1. And even though they spend the significant portion of the year hibernating, according to this case study, marmots are still considered excellent subjects for animal behavioral studies.
+
+- portion: 部分
+- marmot: 土拨鼠
+
+2. They reside throughout the eastern region of North America where there is a temperate climate, where the growing season lasts for at least five months of the year, which is when they do all their mating, playing and eating.
+
+- reside: 居住在；定居于
+- temperate: 气候温和的；温带的
+- mate: 交配
+
+按：
+
+- which is when: 注意这个连在一起，但是仔细听还是能分辨出来
+
+3. Well, the Olympic marmots inhabit meadows high in the Olympic Moutains where the weather conditions are much harsher. So there is a lot more wind and snow.
+
+- inhabit: 居住在；栖居于
+- meadow: 草地；牧场
+- harsh: 残酷的；严酷的
+
+4. This could explain why the social behavior of the Olympic marmots is so unlike that of Eastern marmots.
+
+5. For today's discussion, we'll review the case study on how some animals have behaviorally adapted to thier environments. Now you had to read about two animal species, the Eastern marmot, and the Olympic marmot. Marmots are rodents. They are large ground squirrels, about the size of an average house cat. And they live in a variety of habitats. And even they spend the significant portion of the year hibernating, according to this case study, marmots are still considered excellent subjects for animal behavioral studies. Why is that?
+
+- species: 物种
+- rodents: 啮齿动物
+- habitat: 生活环境；栖息地
+
+按：
+
+- 这里 the size of an average house 连在一起读，很容易听不出来，尤其是 an average 连读
+
+6. Well, the Olympic marmots inhabit meadow high in the Olympic Mountains where the weather conditions are much harsher, so there is a lot more wind and snow. The growing season lasts only two to three months. Son in that much shorter period of time, all the Olympic marmots, male and femail, eat, play, work and nurture the young together. Because the climate is so harsh, cooperation increases the surrival rate of Olympic marmots. They keep their young at home until they are physically able to surrive on their own. This could explain why the social behavior of the Olympic marmots is so unlike that of the Eastern marmots.
+
+- nurture: 养育；养护
+
+按：
+
+- male and female 连在一起读，像是 mayland female
