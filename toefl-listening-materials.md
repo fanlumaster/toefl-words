@@ -165,3 +165,28 @@
 按：
 
 - male and female 连在一起读，像是 mayland female
+
+## Lesson5
+
+1. What Watson did was to observe muscular habits. Because he viewed them as a manifestation of thinking.
+
+2. So Watson made the argument that problem solving, or thinking, can be defined as a set of behaviors, a set of responses.  
+
+3. What one finds in deaf individuals who use sign language, when they are given problems of various kinds, they have muscular changes in their hands, when they are trying to solve a problem.
+
+- deaf: 聋的
+
+按：
+
+- 这里的 they are given problems of various kinds 中的 problems of 连读很模糊，注意分别
+
+4. If you think of locations, there tends to be eye movement that occurs with your thinking about that location.
+
+按：
+
+- there 和 the 的读音似乎差别也没那么大
+- that occurs 连读要注意
+
+5. Is there anything else that might account for this change in muscular activity other than saying that it is thinking?
+
+6. He said those habits were an expression of thinking. He 
